@@ -42,3 +42,5 @@ app.get('/p', function(req, res) {
 // GET /p?tagId=5
 // tagId is set to 5
 ```
+
+from <a href="https://stackoverflow.com/questions/20089582/how-to-get-a-url-parameter-in-express"> this </a>
